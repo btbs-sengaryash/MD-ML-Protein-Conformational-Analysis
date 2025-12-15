@@ -1,3 +1,4 @@
+# Machine Learning Assisted Analysis of Protein Conformational Dynamics
 # MD-ML-Protein-Conformational-Analysis
 Machine learning assisted analysis of protein conformational dynamics using molecular dynamics simulations and PCA.
 
@@ -25,6 +26,12 @@ The goal was to extract dominant collective motions from MD trajectories using P
 - NumPy, Matplotlib, scikit-learn
 - GROMACS
 - Jupyter Notebook
+
+## Results Preview
+Key analysis figures are available in the `Figures/` folder:
+- RMSD, RMSF, SASA
+- PCA projection of conformational space
+- Free energy landscape highlighting metastable states
 
 ## Motivation
 This project was completed as a research exercise combining computational chemistry and machine learning, with an emphasis on reproducibility and scientific interpretability.
