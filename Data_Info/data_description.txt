@@ -1,0 +1,7 @@
+The analysis scripts and notebooks provided here demonstrate:
+- Trajectory processing
+- Feature extraction
+- PCA-based dimensionality reduction
+- Free energy landscape construction
+
+Trajectory files are available upon request.
